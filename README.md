@@ -15,5 +15,5 @@ Visit our South Los Angeles location: 320 W Vernon, Los Angeles, CA 90037
 ![Laflorblanca1](https://user-images.githubusercontent.com/79248498/163752211-4b6d97d8-29e7-4b1b-8992-60a5292186f5.jpg)
  
 
-[Menu](./next-page.html)
+[Menu](./another-page.html)
 
