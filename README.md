@@ -10,7 +10,6 @@ Visit our South Los Angeles location: 320 W Vernon, Los Angeles, CA 90037
 * Dine-in
 * Take out
 * Cash only
-***
 
 ### Menu
 
@@ -19,4 +18,4 @@ Serving (All-Day)
 * Lunch
 * Dinner 
 
-[Laflorblanca](https://github.com/Lgonzalez5/white-flower/blob/main/Laflorblanca.jpg)
+[](Laflorblanca.jpg)
