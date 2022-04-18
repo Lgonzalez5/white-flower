@@ -6,6 +6,7 @@
 
 ### Location
 Visit our South Los Angeles location: 320 W Vernon, Los Angeles, CA 90037
+Phone number: 323 231 1728
 * No reservations required
 * Dine-in
 * Take out
