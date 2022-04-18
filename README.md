@@ -18,8 +18,8 @@ Serving (All-Day)
 * Lunch
 * Dinner 
 
-[](Laflorblanca.jpg)
-[](Laflorblanca1.jpg)
-[](breakfast.jpg)
+[](https://github.com/Lgonzalez5/white-flower/blob/main/Laflorblanca.jpg)
+[](https://github.com/Lgonzalez5/white-flower/blob/main/Laflorblanca1.jpg)
+[](https://github.com/Lgonzalez5/white-flower/blob/main/breakfast.jpg)
 
-Laflorblanca.jpg
+
