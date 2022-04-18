@@ -11,6 +11,9 @@ Visit our South Los Angeles location: 320 W Vernon, Los Angeles, CA 90037
 
 ### Menu
 
-Serving Breakfast,Lunch,Dinner all-Day
+Serving (All-Day)
+* Breakfast
+* Lunch
+* Dinner 
 
-![breakfast](https://drive.google.com/drive/u/0/recent)
+![breakfast.jpg](https://drive.google.com/drive/u/0/recent)
